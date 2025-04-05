@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{1C124B77-A425-413A-9419-DCFDD0B49F7E}|StringExtensionsLibrary.csproj|solutionrelative:stringextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{1C124B77-A425-413A-9419-DCFDD0B49F7E}|StringExtensionsLibrary.csproj|c:\\users\\ritik\\onedrive\\documents\\semester 3\\comp 213\\stringextensionslibrary\\stringextensionslibrary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1C124B77-A425-413A-9419-DCFDD0B49F7E}|StringExtensionsLibrary.csproj|solutionrelative:stringextensionslibrary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1C124B77-A425-413A-9419-DCFDD0B49F7E}|StringExtensionsLibrary.csproj|c:\\users\\ritik\\onedrive\\documents\\semester 3\\comp 213\\stringextensionslibrary\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1C124B77-A425-413A-9419-DCFDD0B49F7E}|StringExtensionsLibrary.csproj|solutionrelative:class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -18,8 +22,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StringExtensionsLibrary",
+              "DocumentMoniker": "C:\\Users\\ritik\\OneDrive\\Documents\\SEMESTER 3\\COMP 213\\StringExtensionsLibrary\\StringExtensionsLibrary.csproj",
+              "RelativeDocumentMoniker": "StringExtensionsLibrary.csproj",
+              "ToolTip": "C:\\Users\\ritik\\OneDrive\\Documents\\SEMESTER 3\\COMP 213\\StringExtensionsLibrary\\StringExtensionsLibrary.csproj",
+              "RelativeToolTip": "StringExtensionsLibrary.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-05T14:38:25.731Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -35,7 +52,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\ritik\\OneDrive\\Documents\\SEMESTER 3\\COMP 213\\StringExtensionsLibrary\\Class1.cs",
               "RelativeDocumentMoniker": "Class1.cs",

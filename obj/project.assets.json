@@ -12,10 +12,10 @@
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
-    "version": "1.0.0",
+    "version": "1.0.1",
     "restore": {
       "projectUniqueName": "C:\\Users\\ritik\\OneDrive\\Documents\\SEMESTER 3\\COMP 213\\StringExtensionsLibrary\\StringExtensionsLibrary.csproj",
-      "projectName": "StringExtensionsLibrary",
+      "projectName": "StringExtensionLib",
       "projectPath": "C:\\Users\\ritik\\OneDrive\\Documents\\SEMESTER 3\\COMP 213\\StringExtensionsLibrary\\StringExtensionsLibrary.csproj",
       "packagesPath": "C:\\Users\\ritik\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\ritik\\OneDrive\\Documents\\SEMESTER 3\\COMP 213\\StringExtensionsLibrary\\obj\\",
