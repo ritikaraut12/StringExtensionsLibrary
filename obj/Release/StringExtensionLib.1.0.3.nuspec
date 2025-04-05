@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>StringExtensionLib</id>
+    <version>1.0.3</version>
+    <authors>Ritika</authors>
+    <description>String extension library</description>
+    <repository type="git" commit="31f17eef5527443a354e9a0eb8b7f9c2e8150418" />
+    <dependencies>
+      <group targetFramework="net8.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\ritik\OneDrive\Documents\SEMESTER 3\COMP 213\StringExtensionsLibrary\bin\Release\net8.0\StringExtensionsLibrary.dll" target="lib\net8.0\StringExtensionsLibrary.dll" />
+  </files>
+</package>
